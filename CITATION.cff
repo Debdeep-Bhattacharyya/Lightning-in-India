@@ -29,7 +29,7 @@ date-released: "2026-10-05"
 
 doi: "10.5281/zenodo.23158027"
 
-repository-code: "https://github.com/Debdeep-Bhattacharyya/Lightning-in-India"
+url: "https://github.com/Debdeep-Bhattacharyya/Lightning-in-India"
 
 abstract: "Research repository containing datasets, source codes, geospatial resources, and supporting materials for investigating the spatiotemporal variability, atmospheric controls, storm electrical characteristics, and lightning-related mortality over India."
 
