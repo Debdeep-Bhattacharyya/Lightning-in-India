@@ -1,4 +1,5 @@
-Lightning-in-India
+Lightning-in-India    [![DOI](https://zenodo.org/badge/1405217695.svg)](https://doi.org/10.5281/zenodo.23158026)
+
 
 Overview
 This repository contains the research datasets, source codes, geospatial resources, and supporting materials used for research on the spatiotemporal variability, atmospheric controls, storm characteristics, and lightning-related mortality over India. The research integrates satellite-based Lightning Imaging Sensor (LIS) observations, atmospheric reanalysis data, National Remote Sensing Centre (NRSC) lightning observations, lightning-fatality statistics, and geospatial datasets within a common GIS and statistical analysis framework.  The repository is intended to support research transparency, reproducibility, methodological documentation, and responsible reuse of the associated code and research materials.
