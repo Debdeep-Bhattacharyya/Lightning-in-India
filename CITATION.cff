@@ -1,9 +1,49 @@
-cff-version: 1.1.0
-message: "If you use this codes, please cite it as below."
+cff-version: 1.2.0
+
+message: "If you use this dataset, code, or research repository, please cite it using the information provided here."
+
+title: "Lightning Hazard and Human Mortality over India: Climatology, Atmospheric Controls, and Storm Electrical Characteristics"
+
+type: dataset
+
 authors:
-- family-names: Bhattacharyya
-  given-names: Debdeep
-orcid: https://orcid.org/0000-0001-6274-3887
-title:Debdeep-Bhattacharyya/Lightning-in-India: Release
-version: 0.1.0
-date-released: 2026-10-05
+  - family-names: "Bhattacharyya"
+    given-names: "Debdeep"
+    orcid: "https://orcid.org/0000-0001-6274-3887"
+
+  - family-names: "Mishra"
+    given-names: "Manoranjan"
+
+  - family-names: "Guria"
+    given-names: "Rajkumar"
+
+  - family-names: "Das"
+    given-names: "Umasankar"
+
+  - family-names: "Taori"
+    given-names: "Alok"
+
+version: "0.1.0"
+
+date-released: "2026-10-05"
+
+doi: "10.5281/zenodo.23158027"
+
+repository-code: "https://github.com/Debdeep-Bhattacharyya/Lightning-in-India"
+
+abstract: "Research repository containing datasets, source codes, geospatial resources, and supporting materials for investigating the spatiotemporal variability, atmospheric controls, storm electrical characteristics, and lightning-related mortality over India."
+
+keywords:
+  - "lightning"
+  - "India"
+  - "lightning climatology"
+  - "lightning hazard"
+  - "lightning mortality"
+  - "TRMM-LIS"
+  - "ISS-LIS"
+  - "Lightning Imaging Sensor"
+  - "ERA5"
+  - "NRSC"
+  - "remote sensing"
+  - "GIS"
+  - "atmospheric science"
